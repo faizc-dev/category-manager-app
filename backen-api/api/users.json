@@ -1,0 +1,21 @@
+[
+    {
+        "name": "faiz",
+        "email": "12@123",
+        "password": "1234",
+        "photo": "uploads\/1742395413_371232933_318412140716973_6577688660502770980_n.jpg",
+        "role": "admin"
+    },
+    {
+        "name": "new",
+        "email": "new@123",
+        "password": "1234",
+        "photo": "uploads\/1742397252_batman-dc-black-logo-hd-wallpaper-preview.jpg"
+    },
+    {
+        "name": "",
+        "email": "new2@gmail.com",
+        "password": "1234",
+        "photo": ""
+    }
+]
